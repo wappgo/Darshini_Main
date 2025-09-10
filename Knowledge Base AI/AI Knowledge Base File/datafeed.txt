@@ -1,0 +1,83 @@
+Ujjain KUMBH MELA AI ASSISTANT – KNOWLEDGE BASE
+
+WHAT IS UJJAIN KUMBH?
+The Kumbh Mela in UJJAN is one of the four sacred Kumbh Melas held every 12 years in India. Pilgrims gather to take a holy dip in the Shipra River, seeking spiritual purification and moksha. The event attracts millions of devotees, saints, and tourists.
+
+📅 KEY DATES FOR KUMBH 2027 (PROVISIONAL)
+Event                | Date            | Description
+---------------------|------------------|-----------------------------------------------------
+Snan Arambh          | April 5, 2028    | Commencement of holy bathing rituals
+1st Shahi Snan       | April 9, 2028    | Grand Akhara procession & royal bath
+2nd Shahi Snan       | April 23, 2028   | Second major bathing event
+Akshay Tritiya Snan | May 06, 2028  | Auspicious day for dip & rituals
+3rd Shahi Snan       | May 20, 2028| Final royal procession & holy bath
+Conclusion           | May 22, 2028| Closing ceremony of the Kumbh
+
+INTELLIGENT LOCATION QUERIES
+Ask the AI:
+- “Main abhi kahan hoon?” ➤ "Abhi aap Poll Number 54 ke paas ho, Vidhya Dham Pandal ke samne."
+- “Mujhe Barfani Ashram jana hai, vo kahan hai?” ➤ "Barfani Ashram Poll Number 31 ke paas hai, Trimbak Road Sector C mein. yadi aap map me dekh sakte he to mujhe apna number dijiye me apko link bhej deti hu"
+- “Main Ramkund kaise jaun?” ➤ "Aap ke current location se Ramkund sabse nazdeek Poll Number 12 ke paas hai. Follow Gate 1 signage. Apka mobile number dijiye taki me apke phone pe bhi rasta bhej saku” 
+- “VIP movement kis raste pe ho raha hai?” ➤ "Is waqt VIP movement Panchvati se Trimbakeshwar Road par ho raha hai. Alternate route use karein via Tapovan sector."
+- “Kya koi rasta band hai?” ➤ "Haan, Ramkund se Sadhugram jaane wala route abhi temporary band hai 4 PM tak."
+
+Ramkund is the main holy bath ghat on the Godavari River. It is located near poll number 12, approximately 1.0 km from the city center.
+
+Trimbakeshwar Temple, one of the twelve Jyotirlingas, is situated near poll numbers 90 and above, at a distance of around 25 km from the city center.
+
+Sadhugram Sector A is the designated area for Akharas and saints' accommodations. It is near poll number 35, about 3.5 km from the city center.
+
+Barfani Ashram is a prominent spiritual center located near poll number 31, approximately 2.0 km from the center.
+
+Vidhya Dham Pandal is the venue for spiritual pravachans and Yagna events. It is located near poll number 54.
+
+The AI Help Center, which provides live AI-based assistance and handles lost and found queries, is situated near poll number 15, close to Ramkund.
+
+
+EMERGENCY & SUPPORT SERVICES
+Service                     | Contact Number   | Location / Notes
+-----------------------------|------------------|------------------------------------------------
+All-in-One Emergency        | 112              | Police, Fire, Medical
+Medical Helpline            | 108              | Ambulance and First Aid
+AI WhatsApp Assistant       | +91-88XXXX1234   | Send “Hi” for help with directions/alerts
+Lost & Found Helpline       | +91-95XXXX4521   | Located near Ramkund, open 24x7
+Kumbh Control Room          | +91-74XXXX0000   | Ujjain Collector Office  Ask the AI:
+- “Mera bhai to heart attack agya he kya karu?” ➤ "Abhi aap Poll Number 54 ke paas ho, chinta na kijiye mene alert raise kardiya he medical team apke pass pahuch rhi he. App jaha he vahi rahe”  - “Yaha aag lag gyi he “ ➤ “Aap jald se jald poll number 44 ke taraf se bahar jaiye, mene fire response team ko alert bhej diya” 
+
+CULTURE & EVENTS
+- Aarti Timings: Morning 6:00 AM | Evening 7:00 PM (Ramkund)
+- Spiritual Talks: Daily at Vidhya Dham Pandal (Poll No. 54), 10 AM–1 PM & 4 PM–6 PM.
+- Akharas Present: Juna Akhara, Niranjani, Nirmohi, Atal, Digambar Ani, Avahan, etc.
+
+
+STAY OPTIONS
+
+Yatri Niwas is a budget accommodation located near Ramkund. For bookings or inquiries, contact +91-9809399210.
+
+Tent City Ujjain offers mid-range tents and is situated in the Tapovan Sector. Contact +91-74XXXXXX99 for more information.
+
+Godavari Grand Inn is a premium hotel located on Panchvati Road. For reservations, call +91-9193993988.
+
+TRANSPORT & ROUTES
+
+Shuttle buses are available every 15 minutes from Ujjain Station Gate to Ramkund and various sector locations.
+
+E-Rickshaw points are set up near all entry gates. They operate on a flat fare of ₹15 per kilometer, with app-based booking support.
+
+VIP movement routes, especially between Panchvati and Trimbak, are frequently updated depending on the VIP schedules. Real-time updates are available.
+
+Parking Zone P1 is located at Tapovan Link Road, with a capacity of 3,000 vehicles and shuttle service available for onward travel.
+
+AI LIVE QUERY SUPPORT – SAMPLE PROMPTS
+- “Mujhe Sector C ka map bhejo.”
+- “Abhi sabse kam bheed kis ghat pe hai?”
+- “Trimbakeshwar jane ke liye best rasta kya hai?”
+- “VIP route abhi kaun sa active hai?”
+- “Lost & found center kaha hai?”
+
+LIVE ALERTS (SAMPLE)
+- "Poll No. 36 ke paas traffic jam. Please reroute via Poll 38."
+- "Evening Aarti 7 PM sharp at Ramkund. Arrive early due to crowd."
+- "Roadblock on Tapovan route till 6 PM due to Akhara Yatra."
+
+

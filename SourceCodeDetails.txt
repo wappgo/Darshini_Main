@@ -1,0 +1,34 @@
+Darshini AI have multiple modules we uploaded all the code in their respective repositories please refer below details to find respective Module code.
+
+
+Morover the application is also deployed live you can access by using below credentials:
+
+https://darshiniai.wappgo.com/
+Username: admin
+Password: mahakalrajakijai
+
+
+Repo Name : Darshini Main
+URL : https://github.com/wappgo/Darshini_Main.git 
+Usecase : Darshini Source Code Details, Instructions & Knowledge Base **CURRENT**
+
+
+Repo Name : Darshini_VoiceCallAI_SIP
+URL : https://github.com/wappgo/Darshini_VoiceCallAI_SIP 
+Usecase : Voice Call AI Connected to SIP ( Used Twilio SIP Provider ) 
+
+Repo Name : Darshini_VoiceAI_NoSIP
+URL : https://github.com/wappgo/Darshini_VoiceAI_NoSIP
+Usecase : Voice Based AI English without SIP
+
+Repo Name : Darshini_Video_AI_Backend
+URL : https://github.com/wappgo/Darshini_Video_AI_Backend
+Usecase : Video Call Intelligence 
+
+Repo Name : Darshini_WebApp_Prototype
+URL : https://github.com/wappgo/Darshini_WebApp_Prototype
+Usecase : Complete Prototype WebApp Connected to all Modules
+
+Repo Name : Darshini_LF_Person_Detection
+URL : https://github.com/wappgo/Darshini_LF_Person_Detection
+Usecase : For Survivalnce (Persona detection ) & Lost and found management
